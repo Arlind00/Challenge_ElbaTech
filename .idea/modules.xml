@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../B25-RestAssured-Arlind/B25-RestAssured-Arlind.iml" filepath="$PROJECT_DIR$/../B25-RestAssured-Arlind/B25-RestAssured-Arlind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Centrilli-EU8G9/Centrilli-EU8G9.iml" filepath="$PROJECT_DIR$/../Centrilli-EU8G9/Centrilli-EU8G9.iml" />
+    </modules>
+  </component>
+</project>
